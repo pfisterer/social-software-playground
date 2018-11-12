@@ -1,0 +1,9 @@
+RISE
+notedown
+matplotlib
+wordcloud
+networkx
+nxviz
+community
+pandas
+hiveplot
